@@ -1,3 +1,4 @@
+{ https://acmp.ru/index.asp?main=task&id_task=21 }
 const
 	number_of_zp = 3;
 var
