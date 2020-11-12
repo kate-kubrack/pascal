@@ -1,3 +1,4 @@
+{ https://acmp.ru/index.asp?main=task&id_task=766 }
 var
 	N, M, K: integer;
 	f_input, f_output : text;
